@@ -1,5 +1,6 @@
 # Better PackedScenes Inspector
 
+You can also find this on the [Godot Asset Library](https://godotengine.org/asset-library/asset/4881).
 
 Removes PackedScenes preview images from the Inspector, and display the PackedScene name instead.
 
